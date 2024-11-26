@@ -1,0 +1,20 @@
+{
+  "name": "condicionales",
+  "version": "1.0.0",
+  "main": "perfil.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "javascript",
+    "condicionales"
+  ],
+  "author": "LuisCurzi22 <luiscurzi22@gmail.com>",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
